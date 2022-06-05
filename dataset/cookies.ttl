@@ -1,0 +1,167 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix d: <http://ayaa-cookies.com/data#> .
+
+d:001   d:tipe      "kering";
+        d:nama      "Nastar";
+        d:rasa      "Manis";
+        d:tepung    "175gr";
+        d:telur     "1 butir";
+        d:gula      "25gr";
+        d:garam     "-";
+        d:keju      "-";
+        d:mentega   "125gr";
+        d:deskripsi "Kue kering yang sering ditemui saat lebaran. Kue nastar bukanlah kue nastar apabila tanpa nanas. Banyak variasi yang bisa diberikan seperti taburan keju, biji cengkeh, bahkan coklat.".
+
+d:002   d:tipe      "kering";
+        d:nama      "Keju";
+        d:rasa      "Asin";
+        d:tepung    "350gr";
+        d:telur     "-";
+        d:gula      "-";
+        d:garam     "-";
+        d:keju      "200gr";
+        d:mentega   "300gr";
+        d:deskripsi "Sebutan kerennya adalah Kastangel. Kue keju ini rasanya asin karena tidak menggunakan gula. Selain itu, keju juga ditaburi di atas kuenya sehingga cocok kalau kue ini disebut kue keju.".
+
+d:003   d:tipe      "kering";
+        d:nama      "Putri Salju";
+        d:rasa      "Manis";
+        d:tepung    "400gr";
+        d:telur     "3 butir";
+        d:gula      "120gr";
+        d:garam     "-";
+        d:keju      "80gr";
+        d:mentega   "-";
+        d:deskripsi "Kue yang namanya unik dan indah. Ciri utama kue ini adalah taburan gula halus di atas kuenya yang menyerupai kepingan salju. Kue ini biasanya memiliki isian kacang mede / kacang mete di tengah.".
+
+d:004   d:tipe      "kering";
+        d:nama      "Manis";
+        d:rasa      "Asin";
+        d:tepung    "500gr";
+        d:telur     "3 butir";
+        d:gula      "250gr";
+        d:garam     "-";
+        d:keju      "-";
+        d:mentega   "380gr";
+        d:deskripsi "Kue semprit biasanya memiliki bentuk rata. Di tengahnya bisa ditambahkan choco chip ataupun taburan lainnya. Kue ini dibuat dengan menyemprotkan adonan melalui plastik dan cetakan kue.".
+
+d:005   d:tipe      "kering";
+        d:nama      "Sagu Keju";
+        d:rasa      "Manis";
+        d:tepung    "300gr";
+        d:telur     "1 butir";
+        d:gula      "150gr";
+        d:garam     "-";
+        d:keju      "100gr";
+        d:mentega   "50gr";
+        d:deskripsi "Kue ini tidak menggunakan tepung terigu, tetapi tepung sagu. Kue sagu keju memiliki tekstur halus tetapi sangat rapuh. Umumnya kue ini memiliki rasa manis walaupun ada beberapa resep yang membuatnya dengan rasa asin.".
+
+d:006   d:tipe      "kering";
+        d:nama          "Kacang";
+        d:rasa          "Asin";
+        d:tepung        "250gr";
+        d:telur         "-";
+        d:gula          "90gr";
+        d:garam     "-";
+        d:keju          "-";
+        d:mentega       "50gr";
+        d:deskripsi     "Kue ini terbuat dari bahan bahan kacang seperti selai dan minyak kacang. Di atasnya terdapat potongan kacang almond. Kue ini biasanya berwarna cokelat karena diolesi selai kacang dan kuning telur.".
+
+d:007   d:tipe      "kering";
+        d:nama          "Blueberry Almond";
+        d:rasa          "Manis";
+        d:tepung        "230gr";
+        d:telur         "1 butir";
+        d:gula          "100gr";
+        d:garam     "-";
+        d:keju          "-";
+        d:mentega       "75gr";
+        d:deskripsi     "Bintang utama kue ini adalah selai blueberry nya. Kue akan dibentuk lingkaran kosong di tengah agar dapat diisi selai. Sebelum dipanggang, berikan potongan almond dan simpan di atas selai.".
+
+d:008   d:tipe      "kering";
+        d:nama          "Wafer Cookies";
+        d:rasa          "Manis";
+        d:tepung        "400gr";
+        d:telur         "2 butir";
+        d:gula          "50gr";
+        d:garam     "-";
+        d:keju          "-";
+        d:mentega       "250gr";
+        d:deskripsi     "Bayangkan sebuah kue yang memiliki potongan wafer di tengahnya. Adonan kue ini membungkus potongan wafer kecil lalu ditaburi keju di atasnya. Kue ini cocok untuk dimakan sekali lahap karena ukurannya yang kecil.".
+
+d:009   d:tipe      "kering";
+        d:nama          "Coffee Cookies";
+        d:rasa          "Manis";
+        d:tepung        "400gr";
+        d:telur         "-";
+        d:gula          "75";
+        d:garam     "-";
+        d:keju          "-";
+        d:mentega       "225gr";
+        d:deskripsi     "Kue ini adalah versi besar biji kopi yang bisa dimakan. Bentuk kuenya yang menyerupai biji kopi pantas dijuluki kue kopi. Banyak jenis kopi yang bisa dimasukkan untuk membuat kue ini.".
+
+d:010   d:tipe      "kering";
+        d:nama          "Stik Coklat";
+        d:rasa          "Manis";
+        d:tepung        "300gr";
+        d:telur         "2 butir";
+        d:gula          "80gr";
+        d:garam         "-";
+        d:keju          "-";
+        d:mentega       "200gr";
+        d:deskripsi     "Seperti kue wafer, kue stik coklat memiliki sebuah potongan coklat batang sebagai topping. Adonan kue yang dibuat hanya menjadi dasar menyimpan coklat. Terdapat variasi yang ditaburi parutan keju.".
+
+d:011   d:tipe      "basah";
+        d:nama          "Pastel";
+        d:rasa          "Asin";
+        d:tepung        "250gr";
+        d:telur         "2 butir";
+        d:gula          "-";
+        d:garam         "1 sdt";
+        d:keju          "-";
+        d:mentega       "200gr";
+        d:deskripsi     "Adonan ini cocok untuk dibuat pastel isi sayuran. Wortel, buncis, dan bihun biasa menjadi isian untuk pastel ini. Ukurannya agak besar sehingga tidak dapat dimakan sekali lahap.".
+
+d:012   d:tipe      "basah";
+        d:nama          "Pastel Mandarin";
+        d:rasa          "Asin";
+        d:tepung        "450gr";
+        d:telur         "2 butir";
+        d:gula          "2 sdt";
+        d:garam         "2 sdt";
+        d:keju          "-";
+        d:mentega       "300gr";
+        d:deskripsi     "Kulit pastel yang diproduksi dari resep ini lebih keras. Bentuk pastel mandarin juga biasanya bulat, dibandingkan pastel biasa yang berbentuk bulan sabit. Isian pastel ini dapat disesuaikan.".
+
+d:013   d:tipe      "basah";
+        d:nama          "Bika Ambon";
+        d:rasa          "Manis";
+        d:tepung        "150gr";
+        d:telur         "2 butir";
+        d:gula          "1 sdt";
+        d:garam         "1/4 sdt";
+        d:keju          "-";
+        d:mentega       "50gr";
+        d:deskripsi     "Tidak sedikit orang yang mengira kue ini berasal dari Ambon. Bika ambon adalah kue tradisional yang berasal dari Medan, Sumatera Utara. Warnanya kuning dan banyak rongga di dalamnya seperti sarang.".
+
+d:014   d:tipe      "basah";
+        d:nama          "Pukis";
+        d:rasa          "Manis";
+        d:tepung        "150gr";
+        d:telur         "3 butir";
+        d:gula          "100gr";
+        d:garam         "-";
+        d:keju          "-";
+        d:mentega       "25gr";
+        d:deskripsi     "Kue pukis adalah salah satu kue yang bebas. Bebas dalam artian banyak topping yang dapat dicoba. Kue ini mirip dengan kue cubit secara tekstur.".
+
+d:015   d:tipe      "basah";
+        d:nama          "Sus";
+        d:rasa          "Manis";
+        d:tepung        "120gr";
+        d:telur         "3 butir";
+        d:gula          "50gr";
+        d:garam         "1/4 sdt";
+        d:keju          "-";
+        d:mentega       "100gr";
+        d:deskripsi     "Kue sus biasanya diisi dengan vla. Umumnya vla berasa vanila dan terdapat banyak variasi dari rasa vla isian kue. Di Eropa, kue ini dikenal dengan sebutan choux pastry.".
